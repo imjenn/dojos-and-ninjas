@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.dojo-detail {
+	width: 50%;
+	margin: 2em auto;
+}
+
+h1 {
+	margin: 1em 0;
+}
+
+footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
